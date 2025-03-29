@@ -11,7 +11,7 @@ This project contains a Jupyter notebook for analyzing the Iris dataset, which i
 
 1. Clone this repository:
 ```bash
-git clone <github.com/ahmedkuroviris-dataset-analysis.git>
+git clone github.com/ahmedkuroviris-dataset-analysis.git
 ```
 
 2. Create a virtual environment (recommended):
